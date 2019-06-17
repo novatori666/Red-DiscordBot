@@ -1,1 +1,1 @@
-worker: pythonRed.py
+worker: pythonred.py
